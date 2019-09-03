@@ -3,22 +3,25 @@
 @import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
 
 body {
-  background-color: lightblue;
+  background-color:wheat;
 }
 
 h1 {
   color: red;
   text-align: center;
   font-family: 'Manjari', sans-serif;
+  border:2px solid black;
 }
 
 h2 {
   color: blue;
   text-align: left;
+  border:5px solid red;
 }
 
 p {
   font-size: 20px;
+  border:2px solid green;
 }
 img {
 height:900px;
